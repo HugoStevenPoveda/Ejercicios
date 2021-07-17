@@ -1,5 +1,4 @@
 #datos de entrada
-#reto 1 camilo
 salario_Base , hora_Extras , bonificaciones  = input().split(" ")#permite tomar los datos de forma lineal 
 salario_Base = float(salario_Base)
 horaExtras = int(horaExtras)#cantidad de horas extras en un type int
